@@ -24,8 +24,10 @@ public class Ejecutable02 {
         
         /*
            Los objetos se pueden reescribir y dar valores,para poderlos 
-           utilizar mas tarde.
+           utilizar como nos sea nesesario 
            Los objetos al ser creados tienen un valor inicial
+           ejemplo:
+           int(0),double(0.0),boolean(false),String(null)
         
         */
         System.out.printf("%s - %d - %.2f\n", h1.obtenerNombre(),
