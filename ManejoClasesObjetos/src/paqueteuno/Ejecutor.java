@@ -39,7 +39,7 @@ public class Ejecutor {
         // requerido
         System.out.printf("Factura de Teléfono\n\n"
                 + "Nombres y Apellidos: %s"
-                + "\nNúmero de teléfono: %s\n"
+                + "\nNumero de telefono: %s\n"
                 + "Minutos mensuales: %.2f\nValor por minuto: %.2f\n"
                 + "Valor a cancelar: %.2f\n", 
                 ft.obtenerNombresCompletos(),
